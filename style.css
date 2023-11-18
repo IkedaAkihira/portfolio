@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+}
+
+.content {
+    width: 75%;
+    margin: auto;
+}
+
+.scroll-x-card-list {
+    overflow-x: scroll;
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    border-radius: 10px;
+    border: solid #808080;
+}
+
+.card {
+    height: 300px;
+    width: auto;
+}
+
+.header {
+    display: flex;
+    position: sticky;
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    background-color: bisque;
+    margin: 0;
+    justify-content: space-between;
+}
+
+.header h1 {
+    margin: 0;
+}
+
+.hidden-anchor {
+    text-decoration: none;
+}
+
+.header-title {
+    color: black;
+    font-size: 2em;
+}
+
