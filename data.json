@@ -1,0 +1,26 @@
+[
+    {
+        "title": "テラーメイズ",
+        "description": "迷路の中で化け物から逃げながらクリスタルを集めるホラーゲーム",
+        "thumbnail": "imgs/terror_maze.png",
+        "published": "2023-08-23",
+        "url": "https://www.freem.ne.jp/win/game/31226",
+        "tags": ["ゲーム", "ホラー", "PC"]
+    },
+    {
+        "title": "Re:Tire",
+        "description": "退職した主人公がタイヤに異世界転生する、爽快タイヤアクションゲーム!!",
+        "thumbnail": "imgs/re_tire.png",
+        "published": "2022-12-16",
+        "url": "https://unityroom.com/games/re-tire",
+        "tags": ["ゲーム", "PC"]
+    },
+    {
+        "title": "色を揃えろ!!",
+        "description": "ボールを操作して、箱を同じ色の床に運ぶゲーム",
+        "thumbnail": "imgs/organize_color.png",
+        "published": "2022-05-04",
+        "url": "https://unityroom.com/games/organize-color",
+        "tags": ["ゲーム", "PC"]
+    }
+]
