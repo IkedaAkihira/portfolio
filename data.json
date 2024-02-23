@@ -1,5 +1,13 @@
 [
     {
+        "title": "アルケミー・サバイバー",
+        "description": "クラフト×ヴァンサバライクなゲーム",
+        "thumbnail": "imgs/alchemy_survivor.png",
+        "published": "2023-02-23",
+        "url": "https://unityroom.com/games/alchemy-survivor",
+        "tags": ["ゲーム", "PC"]
+    },
+    {
         "title": "テラーメイズ",
         "description": "迷路の中で化け物から逃げながらクリスタルを集めるホラーゲーム",
         "thumbnail": "imgs/terror_maze.png",
