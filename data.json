@@ -1,9 +1,17 @@
 [
     {
+        "title": "リア充爆破サーフィン",
+        "description": "高波を避けながらビームでリア充を爆破しよう！！",
+        "thumbnail": "imgs/couple_killing_surf.png",
+        "published": "2024-08-10",
+        "url": "https://unityroom.com/games/couple-killing-surf",
+        "tags": ["ゲーム", "PC"]
+    },
+    {
         "title": "アポカリプス ビレッジ",
         "description": "ゾンビを撃って生き延びるゲームです。",
         "thumbnail": "imgs/apocalypse_village.png",
-        "published": "2023-03-10",
+        "published": "2024-03-10",
         "url": "https://unityroom.com/games/apocalypse-village",
         "tags": ["ゲーム", "PC"]
     },
@@ -11,7 +19,7 @@
         "title": "シャドウ ネイル",
         "description": "約1分間、針を避け続けるゲームです。",
         "thumbnail": "imgs/shadow_nail.gif",
-        "published": "2023-03-03",
+        "published": "2024-03-03",
         "url": "https://unityroom.com/games/shadow-nail",
         "tags": ["ゲーム", "PC"]
     },
@@ -19,7 +27,7 @@
         "title": "アルケミー・サバイバー",
         "description": "クラフト×ヴァンサバライクなゲーム",
         "thumbnail": "imgs/alchemy_survivor.png",
-        "published": "2023-02-23",
+        "published": "2024-02-23",
         "url": "https://unityroom.com/games/alchemy-survivor",
         "tags": ["ゲーム", "PC"]
     },
