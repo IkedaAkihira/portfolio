@@ -1,5 +1,21 @@
 [
     {
+        "title": "スプーキー温泉クラーク",
+        "description": "奇怪なお客様の悩みを聞いて、おすすめの湯に案内しよう！",
+        "thumbnail": "imgs/spooky_onsen_clerk.png",
+        "published": "2024-10-13",
+        "url": "https://unityroom.com/games/spooky-onsen-clerk",
+        "tags": ["ゲーム", "PC"]
+    },
+    {
+        "title": "Tatami Ninja",
+        "description": "畳返し系3Dアクション!!",
+        "thumbnail": "imgs/tatami_ninja.png",
+        "published": "2024-08-18",
+        "url": "https://unityroom.com/games/tatami-ninja",
+        "tags": ["ゲーム", "PC"]
+    },
+    {
         "title": "リア充爆破サーフィン",
         "description": "高波を避けながらビームでリア充を爆破しよう！！",
         "thumbnail": "imgs/couple_killing_surf.png",
