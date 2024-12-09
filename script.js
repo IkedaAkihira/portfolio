@@ -2,10 +2,10 @@ function getCardHTMLText(title, description, workPath, thumbnailPath) {
     return '' +
     `<div class="card my-4">` +
     `    <div class="row">` +
-    `        <div class="col-xl-2 col-sm-4">` +
+    `        <div class="col-xl-3 col-sm-4">` +
     `            <img src="${thumbnailPath}" class="img-fluid rounded"/>` +
     `        </div>` +
-    `        <div class="col-xl-10 col-sm-8">` +
+    `        <div class="col-xl-9 col-sm-8">` +
     `            <div class="card-body m-0">` +
     `                <h3 class="card-title">` +
     `                    <span class="mx-2">${title}</span>` +
