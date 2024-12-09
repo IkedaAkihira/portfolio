@@ -46,3 +46,24 @@ body {
     font-size: 2em;
 }
 
+#background-canvas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: -1;
+    background-color: black;
+}
+
+@media (min-aspect-ratio: 1/1) {
+    #background-canvas {
+        height: auto;
+        width: 100vw;
+    }
+}
+
+@media (max-aspect-ratio: 1/1) {
+    #background-canvas {
+        height: 100vh;
+        width: auto;
+    }
+}
