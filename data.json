@@ -1,5 +1,12 @@
 [
     {
+        "title": "Blood Pool Man",
+        "description": "斧投げとテレポートを駆使して5分間生き残ろう!!",
+        "thumbnail": "imgs/blood_pool_man.png",
+        "published": "2025-02-06",
+        "url": "https://ikedaakihira.itch.io/blood-pool-man",
+        "tags": ["ゲーム", "PC"]
+    },{
         "title": "Stimres",
         "description": "新感覚パッシブスキル系ローグライクオートカードバトル",
         "thumbnail": "imgs/stimres.png",
