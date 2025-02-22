@@ -1,5 +1,12 @@
 [
     {
+        "title": "デスぬい",
+        "description": "闇に堕ちたぬいぐるみ、通称「闇ぬい」。彼らに死を与えるため、死のぬいぐるみ「デスぬい」が立ち上がる！",
+        "thumbnail": "imgs/death_nui.png",
+        "published": "2025-02-23",
+        "url": "https://unityroom.com/games/death-nui",
+        "tags": ["ゲーム", "PC"]
+    },{
         "title": "Blood Pool Man",
         "description": "斧投げとテレポートを駆使して5分間生き残ろう!!",
         "thumbnail": "imgs/blood_pool_man.png",
