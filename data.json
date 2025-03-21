@@ -1,5 +1,12 @@
 [
     {
+        "title": "Pollenaut",
+        "description": "花粉系2Dアクション!!\n花粉船乗組員の主人公を操作して、ゴールを目指しましょう!!",
+        "thumbnail": "imgs/pollenaut.png",
+        "published": "2025-03-21",
+        "url": "https://unityroom.com/games/pollenaut",
+        "tags": ["ゲーム", "PC"]
+    },{
         "title": "デスぬい",
         "description": "闇に堕ちたぬいぐるみ、通称「闇ぬい」。彼らに死を与えるため、死のぬいぐるみ「デスぬい」が立ち上がる！",
         "thumbnail": "imgs/death_nui.png",
