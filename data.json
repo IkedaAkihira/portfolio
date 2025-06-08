@@ -1,5 +1,12 @@
 [
     {
+        "title": "Card Eater",
+        "description": "奇妙な右手とカードを駆使して戦うデッキ構築型ローグライクFPS\n鋭意制作中！！",
+        "thumbnail": "imgs/card_eater.png",
+        "published": "In Dev",
+        "url": "https://ikedaakihira.itch.io/card-eater",
+        "tags": ["ゲーム", "PC"]
+    },{
         "title": "Pollenaut",
         "description": "花粉系2Dアクション!!\n花粉船乗組員の主人公を操作して、ゴールを目指しましょう!!",
         "thumbnail": "imgs/pollenaut.png",
